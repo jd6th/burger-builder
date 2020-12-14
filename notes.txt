@@ -1,0 +1,13 @@
+1. npm run eject
+2. google font, select open sans, copy link, paste in index.html above </title>
+3. npm install --save prop-types
+
+database:
+npm install --save axios
+
+redux:
+npm install --save redux react-redux
+npm install --save redux-thunk
+
+joydalud0412
+B@nsyr1r!t
